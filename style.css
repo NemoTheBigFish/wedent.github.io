@@ -34,15 +34,14 @@ body{
 }
 
 .prawy{
+    color: #002AC5;
     padding-left: 10%;
     width: 55%;
     text-align: left;
     font-size: 1.2vw;
     float: right;
-    font-weight: 900;
-    color: white;
+    font-weight: bold;
     font-family: 'Franklin Gothic Medium';
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .photo1{
@@ -74,13 +73,14 @@ main{
 }
 
 .photo2{
-    width: 84%;
+    width: 52vw;
     border-radius: 17%;
 }
 
 footer p{
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    color: #002AC5;
     font-size: 1vw;
+    height: 1vh;
     padding-left: 1%;
     text-align: left;
 }
@@ -93,24 +93,26 @@ footer p{
 }
 
 li{
-    color: white;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    font-size: 2vh;
+    color: #002AC5;
+    font-size: 1vw;
     display: inline;
     padding: 10px;
 }
 
 li:hover{
+    color: #002AC5;
     border-radius: 20px;
     text-shadow: 0 0 10px rgba(255,168,60,1);
 }
 
 .onas{
+    color: #002AC5;
     text-align: center;
     width: 100%;
 }
 
 .onas a{
+    color: #002AC5;
     text-decoration: none;
     color: white;
 }
@@ -137,6 +139,7 @@ a{
 }
 
 .maps{
-    width: 50vh;
-    height: 20vh;
+    width: 30vw;
+    height: 15vh;
 }
+
